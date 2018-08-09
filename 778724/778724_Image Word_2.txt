@@ -1,0 +1,38 @@
+Belmont, Dave
+MRN: 483910552
+DOB: 7/6/1946 Sex: M
+Adm: 5/18/2018 D/C: 5/18/2018
+
+Resulted: 5/18/18 9055, Result status: Final result
+MR Hip Without Contrast Left 
+Ordering provider: Carrie Runge, MD  5/18/18 9106                   Resulted by: Kayla Sanford, MD
+Performed:  5/18/18  4830 - 5/18/18 7854                                   Resulting lab: HE IMG RESULT 
+Narrative:
+ST. JOHN'S HOSPITAL
+MR HIP WO CONTRAST LEFT
+5/18/2018 10:15 AM
+
+INDICATION: Chronic hip pain, history of arthritis.
+TECHNIQUE: Unenhanced.
+COMPARISON: 2/21/2010 CT of the abdomen pelvis.
+
+FINDINGS:
+LEFT HIP: Severe degenerative changes of the left hip with broad-based grade IV chondral loss, bony remodeling and articular surface collapse of the femoral head with synovitis and effusion. Acetabular rim shows extensive bony proliferation and subcortical cystic change. Diffuse degenerative tearing of the labrum. Moderate joint effusion with synovitis, with surrounding edema and inflammation in the subjacent soft tissues. 
+RIGHT HIP: Artifact related to right total hip replacement.
+TENDONS: Gluteal tendons intact and negative. Proximal hamstring tendons intact and negative. No iliopsoas tendon abnormality or tearing.
+BONES AND SOFT TISSUES: Large field-of-views images show postoperative findings related to prior lumbar surgery. No dislocation or displaced fracture. Degenerative changes involving the public symphysis and bilateral SI joints. 
+INTRA-PELVIC CONTENTS: Bladder wall thickening. Small fat-containing inguinal hernias, right greater than left.
+Impression:
+CONCLUSION:
+1. Severe degenerative changes involving the left hip as described. Moderate joint effusion with synovitis and surrounding soft tissue edema and inflammation may reflect superimposed inflammation, however infection should be excluded on clinical grounds.
+2.  Nonspecific thickening of the bladder wall. 
+
+
+Specimen Information
+ID                                      Type                                         Source                                                    Collected On
+C5488021                                                                                                                                          5/18/18  7854
+Testing Performed By
+Lab- Abbreviation        Name                          Director               Address                       Valid Date Range
+99- HE IMG                   HE IMG RESULT         Unknown            Unknown                     1/24/16  4519 - Present
+Result       
+

@@ -1,0 +1,120 @@
+PLEASE ANSWER THE FOLLOWING QUESTIONS.
+Do you have a primary care physician? 
+ - Yes
+Please select your primary care physician (Last Name, First Name) 
+ - Weber, Robert
+Did a physician refer you to TCO? 
+ - No
+Do you have a preferred pharmacy? 
+ - Yes
+Please select your preferred pharmacy (search by pharmacy name and/or zip code) 
+ - WALGREENS DRUG STORE 02769915 WILDWOOD RD,  , WHITE BEAR LAKE, MN, 551151847Ph : (651) 426-7333 x
+ACTIVE MEDICAL HISTORY
+Select all problems you are experiencing today or have had in the past 90 days. 
+ - Arthritis - Osteoarthritis, Arthritis - Rheumatoid, Spinal Stenosis
+PAST MEDICAL HISTORY
+Select all problems you have had in the PAST 
+ - Arthritis - Osteoarthritis, Arthritis - Rheumatoid, Cancer, Heart Attack, Spinal Stenosis
+SURGICAL HISTORY
+Please indicate if YOU have had any of the following surgeries. Mark all that apply. 
+ - Hip Related Surgery, Spine Related Surgery
+Please select the hip related surgeries you've had 
+ - Total hip replacement
+Which side did you have total hip replacement surgery 
+ - right
+Please select the spine related surgeries you've had 
+ - Disc low back surgery, Spinal decompression low back, Spinal fusion low back
+FAMILY MEDICAL HISTORY
+Arthritis
+Please indicate which family members have had arthritis: 
+ - Grandfather (Mother's Side)
+Heart Disease
+Please indicate which family members have had heart disease: 
+ - Mother
+Do you have a family history of any other diseases you would like the doctor to know about? 
+ - No
+GENERAL REVIEW OF SYSTEMS
+NONE
+NONE
+REVIEW OF SYSTEMS: CARDIOVASCULAR
+leg cramping
+REVIEW OF SYSTEMS: SKIN
+NONE
+REVIEW OF SYSTEMS: EAR, NOSE & THROAT
+NONE
+REVIEW OF SYSTEMS: ENDOCRINE
+NONE
+REVIEW OF SYSTEMS: EYES
+NONE
+REVIEW OF SYSTEMS: GENITOURINARY
+NONE
+REVIEW OF SYSTEMS: GASTROINTESTINAL
+NONE
+REVIEW OF SYSTEMS: HEMATOLOGIC/LYMPHATIC
+easy bruising
+REVIEW OF SYSTEMS: MUSCULOSKELETAL
+back pain
+decreased range of motion
+joint pain
+limb (leg) pain
+REVIEW OF SYSTEMS: NEUROLOGICAL
+difficulty walking
+limb weakness
+REVIEW OF SYSTEMS: RESPIRATORY
+NONE
+MEDICATIONS
+Are you currently taking any medications? 
+ - Yes
+Please search and enter all medications you are currently taking. 
+ - Lisinoprill, Tamsulosin, Vicodin, Neurontin (Gabapentin), Lipitor (Atorvastatin)
+ALLERGIES
+Are you allergic to any medications? 
+ - I am not allergic to any medications
+Do you have any non-medication allergies (i.e. food, environment, latex, etc.) 
+ - No - I do not have any non-medication allergies (food/environment/etc.)
+STOP-BANG
+Ht 
+ - 5' 7"
+Wt 
+ - 215 lbs
+What is your gender? 
+ - Male
+Please select your age group (Male) 
+ - 65+
+Is your visit today related to a work injury? 
+ - No
+Is your shirt collar 17 inches / 43 cm or larger (generally size XL shirt or larger)? 
+ - I don't know
+Do you snore loudly? 
+ - No
+Do you often feel tired, fatigued or sleepy during the daytime (falling asleep while driving)? 
+ - No
+Has anyone observed you stop breathing or choking/gasping during your sleep? 
+ - No
+Do you have a history of Vitamin D insufficiency? 
+ - I'm not sure
+Which of the answers below best describes your history of falling? 
+ - I am at risk for future falls
+Do you use tobacco (smoke, chew, etc.)? 
+ - Previously used tobacco but quit
+How long have you stopped using tobacco (days,months,years)? 
+ - 11 years
+Do you consume alcohol? 
+ - Yes
+Do you exercise? 
+ - Yes
+What is your current marital status? 
+ - Married
+Do you have children? 
+ - Yes
+Do you live 
+ - With family
+PQRS
+Do you consider yourself Hispanic/Latino? 
+ - No
+Which category best describes your race? (Identify all that apply) 
+ - White
+END
+Congratulations, now that you completed your health history form before your appointment, you only need to arrive 5 minutes prior to your scheduled appointment time!  Thank you for trusting your care in Twin Cities Orthopedics! 
+ - I completed my form prior to my appointment and I acknowledge I only need to arrive 5 minutes before my appointment
+Received for:Oberd  Vendor M.D.  Apr 15 2018 12:50PM Central Standard Time 
